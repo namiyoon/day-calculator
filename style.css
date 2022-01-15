@@ -1,0 +1,10 @@
+.container {
+    font-family: 'Poppins', sans-serif;
+    width: 100px;
+    text-align: center;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin: 3.125rem auto 0 auto;
+}
